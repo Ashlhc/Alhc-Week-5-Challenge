@@ -8,7 +8,7 @@
     You'll need to clone this repo, install node.js, run the npm install command to install the appropriate Inquirer version.
 
 ## Usage
-    This is the link to the video demonstration of my project https://drive.google.com/file/d/1ZuonALGuMuYp3Zo5BjUP4wD4PGL4qy3V/view
+    This is the link to the video demonstration of my project [(https://drive.google.com/file/d/1ZuonALGuMuYp3Zo5BjUP4wD4PGL4qy3V/view)]
 
 ## Credits
     Inquirer version 8.2.4 
